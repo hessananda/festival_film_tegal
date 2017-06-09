@@ -1,0 +1,70 @@
+/*
+	BPI Website
+	Author: Gin Seladipura
+	Version: 0.0.1
+*/
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+html, body {
+  height: 100%;
+   }
+
+/*body {
+  background: url("../img/ffp1.jpg") ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+}
+*/
+#wrapper {
+
+}
+
+.naik {
+    position: relative;
+    bottom: 3px;
+}
+
+header {
+  background: #fff;
+  padding: 20px 0; }
+
+.content {
+  min-height: 100%;
+  height: 100%;
+  padding-top: 40px;
+  box-sizing: border-box; }
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: bold; }
+
+.tengah {
+  padding: 10% 0; }
+
+.map {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  display: block; }
+
+.white {
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-size: 0.9em; }
+
+  .par {  
+  color: #23488c;
+  font-weight: 700;
+  letter-spacing: 1px;
+  }
+
+@media only screen and (max-width: 384px) {
+    img.responsive {
+        width: 97%;
+    }
+}
+/*# sourceMappingURL=main.css.map */
