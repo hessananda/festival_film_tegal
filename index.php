@@ -29,14 +29,11 @@
   <div class="container">
   <div class="content">
   
-  <div class="row">
-
-        <div class="row">
-          
-          <div class="col-sm-12 col-xs-12 text-center">  
+  <div class="row">          
+          <div class="col-sm-12 text-center">  
           <center>
           <div>
-          <img src="img/sponsor.jpg" class="responsive">
+          <img src="img/sponsor.jpg" class="mobile">
           </div>
           <br>          
           <center>
@@ -46,19 +43,16 @@
           <br><br>
           <p style="color: #23488c;font-weight: 700;font-family: 'Roboto', sans-serif; font-size: 12px;">Didukung Oleh:</p>
           <div>
-          <img src="img/sponsor2.jpg" class="responsive">
+          <img src="img/sponsor2.jpg">
           </div>
           </center>
           </center>
           </div>
-        </div>
-        <br><br>
-        <div class="row">
-          <div class="col-sm-4 col-xs-12">
-                <div>
-                <img src="img/fft.jpg" class="responsive">
-                </div>
-                <br>
+		  <div class="col-xs-12 separator"></div>
+          <div class="col-xs-12 col-sm-6 col-lg-4">
+                <img src="img/fft.jpg" class="text-center mobile">
+                <br><br><br>
+				<div class="hidden-xs">
                 <span style="padding-left: 50px;color: #23488c;font-weight: 900">
                   FORUM FILM TEGAL
                 </span>
@@ -79,6 +73,7 @@
                 &nbsp;&nbsp;
                 <a href="https://www.instagram.com/festivalfilmtegal/" style="color: #407199"><i class="fa fa-instagram fa-3x"></i></a>
                 </p>
+				</div>
 
           </div>          
 
@@ -93,7 +88,7 @@
                   Namun secara perlahan Tegal tercabut dari budaya sinema. Kurangnya ruang tonton serta ketiadaan aktivitas perfilman, membuat Tegal seolah hilang dari peta sinema Indonesia.
                 </p>
                 <p class="par">
-                  FESTIVAL FILM TEGAL 2017
+                  <h3>FESTIVAL FILM TEGAL 2017</h3>
                 </p>
                 <p class="par">
                   Untuk kali pertama Festival Film Tegal 2017 (FFT 2017) diselengarakan. Merupakan usaha untuk kembali menghubungkan masyarakat Tegal dengan sejarah dan budaya sinemanya; mengaktualisasikan dengan kondisi kekinian. Membaca Tegal sebagai bagian dari sejarah sinema Indonesia sekaligus menggali potensi Tegal dari berbagai aspek.                  
@@ -104,11 +99,35 @@
                 <p class="par">
                   Festival ini juga akan menumbuhkan potensi anak muda Tegal dan sekitarnya melalui berbagai program aktivitas sinema; dari workshop hingga kompetisi. Bagaimana anak-anak muda Tegal dan sekitarnya bisa tumbuh kembang dengan budaya sinema baru dan menghubungkannya dengan sejarah.
                 </p>
-          </div>          
-          <div class="col-sm-2 col-xs-12">
+								<div class="visible-xs">
+								<br><br><br>
+                <span style="color: #23488c;font-weight: 900">
+                  FORUM FILM TEGAL
+                </span>
+                  <p class="par">
+                  <br>
+                  Jl. Sultan Agung No. 222 RT 06/22
+                  <br>
+                  Kejambon, Tegal
+                  <br>
+                  Jawa Tengah 52124
+                  <br>
+                  085642616735 - Zulkarnain A.
+                  <br>
+                  forumfilmtegal@gmail.com                  
+                </p>
+                <p>
+                <a href="https://www.facebook.com/groups/1553490401534964/" style="color: #4e68a5" ><i class="fa fa-facebook-square fa-3x"></i></a>
+                &nbsp;&nbsp;
+                <a href="https://www.instagram.com/festivalfilmtegal/" style="color: #407199"><i class="fa fa-instagram fa-3x"></i></a>
+                </p>
+				</div>
+          </div>      
+			</div>		  
+          <div class="col-sm-2 col-xs-12 bottom-end">
             
           </div>
-        </div>
+        
 
           <!-- <div> -->
           <!-- <h4 style="color: #454543;letter-spacing: 3px;"><b>8 JULI - 5 AGUSTUS 2017</b></h4> -->
@@ -127,7 +146,7 @@
           
         
 
-  </div>
+  
 
   </div>
   </div>

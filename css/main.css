@@ -17,7 +17,7 @@ html, body {
 }
 */
 #wrapper {
-
+  font-family: 'Roboto', sans-serif;
 }
 
 .naik {
@@ -61,10 +61,30 @@ h1 {
   font-weight: 700;
   letter-spacing: 1px;
   }
-
-@media only screen and (max-width: 384px) {
     img.responsive {
         width: 97%;
     }
+@media only screen and (max-width: 450px) {
+    img.responsive {
+        width: 97%;
+    }
+    img.mobile {
+        width: 97%;
+    }	
 }
+
+
 /*# sourceMappingURL=main.css.map */
+.separator {
+	margin-top: 50px;
+	padding-top: 50px;
+	border-top: 1px solid #eee;
+}
+h3 {
+	color: #23488c;
+	font-weight: bold;
+	margin-top: 50px;
+}
+.bottom-end {
+	padding-bottom: 90px;
+}
